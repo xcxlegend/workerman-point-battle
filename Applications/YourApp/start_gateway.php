@@ -19,12 +19,15 @@ use \Workerman\Autoloader;
 
 // 自动加载类
 require_once __DIR__ . '/../../Workerman/Autoloader.php';
+
+// require_once __DIR__ . '/Server/GameServer.php';
+
 Autoloader::setRootPath(__DIR__);
 
 // gateway 进程，这里使用Text协议，可以用telnet测试
-$gateway = new Gateway("Text://0.0.0.0:8282");
+$gateway = new Gateway("websocket://0.0.0.0:8282");
 // gateway名称，status方便查看
-$gateway->name = 'YourAppGateway';
+$gateway->name = 'point-battle-gateway';
 // gateway进程数
 $gateway->count = 4;
 // 本机ip，分布式部署时使用内网ip

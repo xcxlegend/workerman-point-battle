@@ -1,0 +1,657 @@
+2016-09-29 10:01:39 pid:27753 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:01:51 pid:27753 Workerman[start.php] Stopping ...
+2016-09-29 10:01:51 pid:27753 Workerman[start.php] has been stopped
+2016-09-29 10:02:54 pid:27783 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:05:47 pid:27783 Workerman[start.php] Stopping ...
+2016-09-29 10:05:48 pid:27783 Workerman[start.php] has been stopped
+2016-09-29 10:05:49 pid:27814 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:06:00 pid:27814 Workerman[start.php] Stopping ...
+2016-09-29 10:06:00 pid:27814 Workerman[start.php] has been stopped
+2016-09-29 10:06:01 pid:27826 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:09:29 pid:27826 Workerman[start.php] Stopping ...
+2016-09-29 10:09:29 pid:27826 Workerman[start.php] has been stopped
+2016-09-29 10:11:35 pid:27897 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:11:38 pid:27897 Workerman[start.php] Stopping ...
+2016-09-29 10:11:38 pid:27897 Workerman[start.php] has been stopped
+2016-09-29 10:11:59 pid:27916 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:12:02 pid:27916 Workerman[start.php] Stopping ...
+2016-09-29 10:12:02 pid:27916 Workerman[start.php] has been stopped
+2016-09-29 10:15:02 pid:27937 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:15:10 pid:27937 Workerman[start.php] Stopping ...
+2016-09-29 10:15:10 pid:27937 Workerman[start.php] has been stopped
+2016-09-29 10:15:49 pid:27957 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:15:55 pid:27962 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:15:55 pid:27962 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:16:09 pid:27957 Workerman[start.php] Stopping ...
+2016-09-29 10:16:09 pid:27957 Workerman[start.php] has been stopped
+2016-09-29 10:16:09 pid:27969 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:16:15 pid:27977 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:16:15 pid:27977 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:16:17 pid:27969 Workerman[start.php] Stopping ...
+2016-09-29 10:16:17 pid:27969 Workerman[start.php] has been stopped
+2016-09-29 10:16:24 pid:27984 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:16:29 pid:27984 Workerman[start.php] Stopping ...
+2016-09-29 10:16:29 pid:27984 Workerman[start.php] has been stopped
+2016-09-29 10:19:23 pid:28004 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:19:25 pid:28005 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:19:25 pid:28005 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2016-09-29 10:19:28 pid:28004 Workerman[start.php] Stopping ...
+2016-09-29 10:19:28 pid:28004 Workerman[start.php] has been stopped
+2016-09-29 10:21:56 pid:28025 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:22:07 pid:28025 Workerman[start.php] Stopping ...
+2016-09-29 10:22:07 pid:28025 Workerman[start.php] has been stopped
+2016-09-29 10:22:08 pid:28038 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:22:10 pid:28038 Workerman[start.php] Stopping ...
+2016-09-29 10:22:10 pid:28038 Workerman[start.php] has been stopped
+2016-09-29 10:22:25 pid:28051 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:22:30 pid:28051 Workerman[start.php] Stopping ...
+2016-09-29 10:22:30 pid:28051 Workerman[start.php] has been stopped
+2016-09-29 10:22:31 pid:28066 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:23:56 pid:28066 Workerman[start.php] Stopping ...
+2016-09-29 10:23:56 pid:28066 Workerman[start.php] has been stopped
+2016-09-29 10:24:22 pid:28094 Workerman[start.php] start in DEBUG mode
+2016-09-29 10:24:30 pid:28094 Workerman[start.php] Stopping ...
+2016-09-29 10:24:30 pid:28094 Workerman[start.php] has been stopped
+2016-09-29 13:41:32 pid:29006 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:41:41 pid:29006 Workerman[start.php] Stopping ...
+2016-09-29 13:41:41 pid:29006 Workerman[start.php] has been stopped
+2016-09-29 13:41:42 pid:29023 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:42:01 pid:29023 Workerman[start.php] Stopping ...
+2016-09-29 13:42:01 pid:29023 Workerman[start.php] has been stopped
+2016-09-29 13:42:02 pid:29040 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:42:05 pid:29040 Workerman[start.php] Stopping ...
+2016-09-29 13:42:05 pid:29040 Workerman[start.php] has been stopped
+2016-09-29 13:42:07 pid:29057 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:42:32 pid:29057 Workerman[start.php] Stopping ...
+2016-09-29 13:42:32 pid:29057 Workerman[start.php] has been stopped
+2016-09-29 13:42:33 pid:29076 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:43:36 pid:29076 Workerman[start.php] Stopping ...
+2016-09-29 13:43:36 pid:29076 Workerman[start.php] has been stopped
+2016-09-29 13:43:37 pid:29100 Workerman[start.php] start in DEBUG mode
+2016-09-29 13:45:02 pid:29100 Workerman[start.php] Stopping ...
+2016-09-29 13:45:02 pid:29100 Workerman[start.php] has been stopped
+2016-09-29 13:49:05 pid:29178 Workerman[start.php] start in DEBUG mode
+2016-09-29 14:22:16 pid:29178 Workerman[start.php] Stopping ...
+2016-09-29 14:22:16 pid:29178 Workerman[start.php] has been stopped
+2016-09-29 14:22:35 pid:29612 Workerman[start.php] start in DEBUG mode
+2016-09-29 14:22:38 pid:29612 Workerman[start.php] Stopping ...
+2016-09-29 14:22:38 pid:29612 Workerman[start.php] has been stopped
+2016-09-29 15:10:08 pid:29966 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:10:19 pid:29966 Workerman[start.php] Stopping ...
+2016-09-29 15:10:19 pid:29966 Workerman[start.php] has been stopped
+2016-09-29 15:11:08 pid:29997 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:11:14 pid:29997 Workerman[start.php] Stopping ...
+2016-09-29 15:11:14 pid:29997 Workerman[start.php] has been stopped
+2016-09-29 15:19:07 pid:30364 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:19:09 pid:30364 Workerman[start.php] Stopping ...
+2016-09-29 15:19:09 pid:30364 Workerman[start.php] has been stopped
+2016-09-29 15:19:18 pid:30379 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:19:18 pid:30379 Workerman[start.php] Stopping ...
+2016-09-29 15:19:19 pid:30379 Workerman[start.php] has been stopped
+2016-09-29 15:19:34 pid:30397 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:19:36 pid:30397 Workerman[start.php] Stopping ...
+2016-09-29 15:19:36 pid:30397 Workerman[start.php] has been stopped
+2016-09-29 15:19:55 pid:30415 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:19:57 pid:30415 Workerman[start.php] Stopping ...
+2016-09-29 15:19:57 pid:30415 Workerman[start.php] has been stopped
+2016-09-29 15:23:11 pid:30438 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:23:20 pid:30438 Workerman[start.php] Stopping ...
+2016-09-29 15:23:20 pid:30438 Workerman[start.php] has been stopped
+2016-09-29 15:26:10 pid:30471 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:26:14 pid:30471 Workerman[start.php] Stopping ...
+2016-09-29 15:26:14 pid:30471 Workerman[start.php] has been stopped
+2016-09-29 15:26:38 pid:30487 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:26:39 pid:30487 Workerman[start.php] Stopping ...
+2016-09-29 15:26:39 pid:30487 Workerman[start.php] has been stopped
+2016-09-29 15:27:44 pid:30513 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:27:47 pid:30513 Workerman[start.php] Stopping ...
+2016-09-29 15:27:47 pid:30513 Workerman[start.php] has been stopped
+2016-09-29 15:29:53 pid:30533 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:29:53 pid:30534 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30534] exit with status 65280
+2016-09-29 15:29:53 pid:30540 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30540] exit with status 65280
+2016-09-29 15:29:53 pid:30541 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30541] exit with status 65280
+2016-09-29 15:29:53 pid:30542 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30542] exit with status 65280
+2016-09-29 15:29:53 pid:30543 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30543] exit with status 65280
+2016-09-29 15:29:53 pid:30544 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30544] exit with status 65280
+2016-09-29 15:29:53 pid:30545 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:53 pid:30533 worker[point-bottle-worker:30545] exit with status 65280
+2016-09-29 15:29:54 pid:30546 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30546] exit with status 65280
+2016-09-29 15:29:54 pid:30547 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30547] exit with status 65280
+2016-09-29 15:29:54 pid:30548 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30548] exit with status 65280
+2016-09-29 15:29:54 pid:30549 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30549] exit with status 65280
+2016-09-29 15:29:54 pid:30550 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30550] exit with status 65280
+2016-09-29 15:29:54 pid:30551 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30551] exit with status 65280
+2016-09-29 15:29:54 pid:30553 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30553] exit with status 65280
+2016-09-29 15:29:54 pid:30554 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30554] exit with status 65280
+2016-09-29 15:29:54 pid:30555 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30555] exit with status 65280
+2016-09-29 15:29:54 pid:30556 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30556] exit with status 65280
+2016-09-29 15:29:54 pid:30557 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30557] exit with status 65280
+2016-09-29 15:29:54 pid:30558 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30558] exit with status 65280
+2016-09-29 15:29:54 pid:30559 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30559] exit with status 65280
+2016-09-29 15:29:54 pid:30560 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30560] exit with status 65280
+2016-09-29 15:29:54 pid:30561 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30561] exit with status 65280
+2016-09-29 15:29:54 pid:30562 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30562] exit with status 65280
+2016-09-29 15:29:54 pid:30563 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30563] exit with status 65280
+2016-09-29 15:29:54 pid:30564 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30564] exit with status 65280
+2016-09-29 15:29:54 pid:30565 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30565] exit with status 65280
+2016-09-29 15:29:54 pid:30566 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30566] exit with status 65280
+2016-09-29 15:29:54 pid:30567 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30567] exit with status 65280
+2016-09-29 15:29:54 pid:30568 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30568] exit with status 65280
+2016-09-29 15:29:54 pid:30569 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30569] exit with status 65280
+2016-09-29 15:29:54 pid:30570 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30570] exit with status 65280
+2016-09-29 15:29:54 pid:30571 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30571] exit with status 65280
+2016-09-29 15:29:54 pid:30572 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30572] exit with status 65280
+2016-09-29 15:29:54 pid:30573 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30573] exit with status 65280
+2016-09-29 15:29:54 pid:30574 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30574] exit with status 65280
+2016-09-29 15:29:54 pid:30575 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30575] exit with status 65280
+2016-09-29 15:29:54 pid:30576 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30576] exit with status 65280
+2016-09-29 15:29:54 pid:30577 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30577] exit with status 65280
+2016-09-29 15:29:54 pid:30578 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30578] exit with status 65280
+2016-09-29 15:29:54 pid:30579 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30579] exit with status 65280
+2016-09-29 15:29:54 pid:30580 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30580] exit with status 65280
+2016-09-29 15:29:54 pid:30581 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30581] exit with status 65280
+2016-09-29 15:29:54 pid:30582 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30582] exit with status 65280
+2016-09-29 15:29:54 pid:30583 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30583] exit with status 65280
+2016-09-29 15:29:54 pid:30584 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30584] exit with status 65280
+2016-09-29 15:29:54 pid:30585 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30585] exit with status 65280
+2016-09-29 15:29:54 pid:30586 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30586] exit with status 65280
+2016-09-29 15:29:54 pid:30587 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30587] exit with status 65280
+2016-09-29 15:29:54 pid:30588 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30588] exit with status 65280
+2016-09-29 15:29:54 pid:30589 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30589] exit with status 65280
+2016-09-29 15:29:54 pid:30590 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30590] exit with status 65280
+2016-09-29 15:29:54 pid:30591 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30591] exit with status 65280
+2016-09-29 15:29:54 pid:30592 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30592] exit with status 65280
+2016-09-29 15:29:54 pid:30593 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30593] exit with status 65280
+2016-09-29 15:29:54 pid:30594 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30594] exit with status 65280
+2016-09-29 15:29:54 pid:30595 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30595] exit with status 65280
+2016-09-29 15:29:54 pid:30596 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30596] exit with status 65280
+2016-09-29 15:29:54 pid:30597 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30597] exit with status 65280
+2016-09-29 15:29:54 pid:30598 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30598] exit with status 65280
+2016-09-29 15:29:54 pid:30599 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:54 pid:30533 worker[point-bottle-worker:30599] exit with status 65280
+2016-09-29 15:29:55 pid:30600 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30600] exit with status 65280
+2016-09-29 15:29:55 pid:30601 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30601] exit with status 65280
+2016-09-29 15:29:55 pid:30602 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30602] exit with status 65280
+2016-09-29 15:29:55 pid:30603 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30603] exit with status 65280
+2016-09-29 15:29:55 pid:30604 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30604] exit with status 65280
+2016-09-29 15:29:55 pid:30605 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30605] exit with status 65280
+2016-09-29 15:29:55 pid:30606 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30606] exit with status 65280
+2016-09-29 15:29:55 pid:30607 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30607] exit with status 65280
+2016-09-29 15:29:55 pid:30608 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30608] exit with status 65280
+2016-09-29 15:29:55 pid:30609 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30609] exit with status 65280
+2016-09-29 15:29:55 pid:30610 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30610] exit with status 65280
+2016-09-29 15:29:55 pid:30611 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30611] exit with status 65280
+2016-09-29 15:29:55 pid:30612 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30612] exit with status 65280
+2016-09-29 15:29:55 pid:30613 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30613] exit with status 65280
+2016-09-29 15:29:55 pid:30614 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30614] exit with status 65280
+2016-09-29 15:29:55 pid:30615 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30615] exit with status 65280
+2016-09-29 15:29:55 pid:30616 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30616] exit with status 65280
+2016-09-29 15:29:55 pid:30617 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30617] exit with status 65280
+2016-09-29 15:29:55 pid:30618 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30618] exit with status 65280
+2016-09-29 15:29:55 pid:30619 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30619] exit with status 65280
+2016-09-29 15:29:55 pid:30620 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30620] exit with status 65280
+2016-09-29 15:29:55 pid:30621 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30621] exit with status 65280
+2016-09-29 15:29:55 pid:30622 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30622] exit with status 65280
+2016-09-29 15:29:55 pid:30623 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30623] exit with status 65280
+2016-09-29 15:29:55 pid:30624 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30624] exit with status 65280
+2016-09-29 15:29:55 pid:30625 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30625] exit with status 65280
+2016-09-29 15:29:55 pid:30626 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30626] exit with status 65280
+2016-09-29 15:29:55 pid:30627 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30627] exit with status 65280
+2016-09-29 15:29:55 pid:30628 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30628] exit with status 65280
+2016-09-29 15:29:55 pid:30629 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30629] exit with status 65280
+2016-09-29 15:29:55 pid:30630 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30630] exit with status 65280
+2016-09-29 15:29:55 pid:30631 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30631] exit with status 65280
+2016-09-29 15:29:55 pid:30632 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30632] exit with status 65280
+2016-09-29 15:29:55 pid:30633 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30633] exit with status 65280
+2016-09-29 15:29:55 pid:30634 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30634] exit with status 65280
+2016-09-29 15:29:55 pid:30635 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30635] exit with status 65280
+2016-09-29 15:29:55 pid:30636 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30636] exit with status 65280
+2016-09-29 15:29:55 pid:30637 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30637] exit with status 65280
+2016-09-29 15:29:55 pid:30638 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30638] exit with status 65280
+2016-09-29 15:29:55 pid:30639 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30639] exit with status 65280
+2016-09-29 15:29:55 pid:30640 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30640] exit with status 65280
+2016-09-29 15:29:55 pid:30641 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30641] exit with status 65280
+2016-09-29 15:29:55 pid:30642 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30642] exit with status 65280
+2016-09-29 15:29:55 pid:30643 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30643] exit with status 65280
+2016-09-29 15:29:55 pid:30644 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30644] exit with status 65280
+2016-09-29 15:29:55 pid:30645 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30645] exit with status 65280
+2016-09-29 15:29:55 pid:30646 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30646] exit with status 65280
+2016-09-29 15:29:55 pid:30647 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30647] exit with status 65280
+2016-09-29 15:29:55 pid:30648 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30648] exit with status 65280
+2016-09-29 15:29:55 pid:30649 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30649] exit with status 65280
+2016-09-29 15:29:55 pid:30650 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30650] exit with status 65280
+2016-09-29 15:29:55 pid:30651 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30651] exit with status 65280
+2016-09-29 15:29:55 pid:30652 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30652] exit with status 65280
+2016-09-29 15:29:55 pid:30653 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:55 pid:30533 worker[point-bottle-worker:30653] exit with status 65280
+2016-09-29 15:29:56 pid:30654 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:56 pid:30533 worker[point-bottle-worker:30654] exit with status 65280
+2016-09-29 15:29:56 pid:30655 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:56 pid:30533 worker[point-bottle-worker:30655] exit with status 65280
+2016-09-29 15:29:56 pid:30533 Workerman[start.php] Stopping ...
+2016-09-29 15:29:56 pid:30656 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '}' in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 62
+2016-09-29 15:29:56 pid:30533 worker[point-bottle-worker:30656] exit with status 65280
+2016-09-29 15:29:56 pid:30533 Workerman[start.php] has been stopped
+2016-09-29 15:30:02 pid:30661 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:30:29 pid:30661 Workerman[start.php] Stopping ...
+2016-09-29 15:30:29 pid:30661 Workerman[start.php] has been stopped
+2016-09-29 15:30:30 pid:30675 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:30:43 pid:30675 Workerman[start.php] Stopping ...
+2016-09-29 15:30:43 pid:30675 Workerman[start.php] has been stopped
+2016-09-29 15:31:18 pid:30693 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:31:23 pid:30693 Workerman[start.php] Stopping ...
+2016-09-29 15:31:23 pid:30693 Workerman[start.php] has been stopped
+2016-09-29 15:32:05 pid:30705 Workerman[start.php] start in DEBUG mode
+2016-09-29 15:32:23 pid:30705 Workerman[start.php] Stopping ...
+2016-09-29 15:32:23 pid:30705 Workerman[start.php] has been stopped
+2016-09-29 16:01:23 pid:30964 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:01:26 pid:30965 WORKER EXIT UNEXPECTED E_ERROR Class 'Player' not found in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 48
+2016-09-29 16:01:26 pid:30964 worker[point-bottle-worker:30965] exit with status 65280
+2016-09-29 16:01:31 pid:30964 Workerman[start.php] Stopping ...
+2016-09-29 16:01:31 pid:30964 Workerman[start.php] has been stopped
+2016-09-29 16:01:45 pid:30978 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:01:47 pid:30983 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in /Users/www/socket/point-battle/Workerman/Protocols/Websocket.php:219
+Stack trace:
+#0 /Users/www/socket/point-battle/Workerman/Connection/TcpConnection.php(239): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /Users/www/socket/point-battle/GatewayWorker/Gateway.php(532): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /Users/www/socket/point-battle/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #39)
+#5 /Users/www/socket/point-battle/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/www/socket/point-battle/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#7 /Users/www/socket/point-battle/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#8 /Users/www/socket/point-battle/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#9 /Users/www/socket/point-battle/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#10 /Users/www/socket/point-battle/Workerman/Worker.php(421): Workerman\Worker::forkWorkers()
+#11 /Users/www/socket/point-battle/start.php(32): Workerman\Worker::runAll()
+#12 {main}
+2016-09-29 16:01:47 pid:30983 WORKER EXIT UNEXPECTED 
+2016-09-29 16:01:47 pid:30978 worker[point-battle-gateway:30983] exit with status 64000
+2016-09-29 16:01:49 pid:30978 Workerman[start.php] Stopping ...
+2016-09-29 16:01:49 pid:30978 Workerman[start.php] has been stopped
+2016-09-29 16:02:10 pid:30993 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:02:28 pid:30993 Workerman[start.php] Stopping ...
+2016-09-29 16:02:28 pid:30993 Workerman[start.php] has been stopped
+2016-09-29 16:02:29 pid:31005 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:02:51 pid:31005 Workerman[start.php] Stopping ...
+2016-09-29 16:02:51 pid:31005 Workerman[start.php] has been stopped
+2016-09-29 16:02:51 pid:31016 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:48:20 pid:31016 Workerman[start.php] Stopping ...
+2016-09-29 16:48:20 pid:31016 Workerman[start.php] has been stopped
+2016-09-29 16:48:21 pid:31455 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:48:21 pid:31456 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31456] exit with status 65280
+2016-09-29 16:48:21 pid:31462 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31462] exit with status 65280
+2016-09-29 16:48:21 pid:31463 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31463] exit with status 65280
+2016-09-29 16:48:21 pid:31464 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31464] exit with status 65280
+2016-09-29 16:48:21 pid:31465 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31465] exit with status 65280
+2016-09-29 16:48:21 pid:31466 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31466] exit with status 65280
+2016-09-29 16:48:21 pid:31467 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31467] exit with status 65280
+2016-09-29 16:48:21 pid:31468 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31468] exit with status 65280
+2016-09-29 16:48:21 pid:31469 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31469] exit with status 65280
+2016-09-29 16:48:21 pid:31470 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31470] exit with status 65280
+2016-09-29 16:48:21 pid:31471 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31471] exit with status 65280
+2016-09-29 16:48:21 pid:31472 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31472] exit with status 65280
+2016-09-29 16:48:21 pid:31473 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31473] exit with status 65280
+2016-09-29 16:48:21 pid:31474 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31474] exit with status 65280
+2016-09-29 16:48:21 pid:31475 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31475] exit with status 65280
+2016-09-29 16:48:21 pid:31476 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31476] exit with status 65280
+2016-09-29 16:48:21 pid:31477 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31477] exit with status 65280
+2016-09-29 16:48:21 pid:31478 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31478] exit with status 65280
+2016-09-29 16:48:21 pid:31479 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31479] exit with status 65280
+2016-09-29 16:48:21 pid:31480 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31480] exit with status 65280
+2016-09-29 16:48:21 pid:31481 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31481] exit with status 65280
+2016-09-29 16:48:21 pid:31482 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31482] exit with status 65280
+2016-09-29 16:48:21 pid:31483 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31483] exit with status 65280
+2016-09-29 16:48:21 pid:31484 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31484] exit with status 65280
+2016-09-29 16:48:21 pid:31485 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31485] exit with status 65280
+2016-09-29 16:48:21 pid:31486 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31486] exit with status 65280
+2016-09-29 16:48:21 pid:31487 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31487] exit with status 65280
+2016-09-29 16:48:21 pid:31488 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31488] exit with status 65280
+2016-09-29 16:48:21 pid:31489 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31489] exit with status 65280
+2016-09-29 16:48:21 pid:31490 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31490] exit with status 65280
+2016-09-29 16:48:21 pid:31491 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31491] exit with status 65280
+2016-09-29 16:48:21 pid:31492 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31492] exit with status 65280
+2016-09-29 16:48:21 pid:31493 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31493] exit with status 65280
+2016-09-29 16:48:21 pid:31494 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31494] exit with status 65280
+2016-09-29 16:48:21 pid:31495 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31495] exit with status 65280
+2016-09-29 16:48:21 pid:31496 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31496] exit with status 65280
+2016-09-29 16:48:21 pid:31497 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31497] exit with status 65280
+2016-09-29 16:48:21 pid:31498 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31498] exit with status 65280
+2016-09-29 16:48:21 pid:31499 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31499] exit with status 65280
+2016-09-29 16:48:21 pid:31500 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31500] exit with status 65280
+2016-09-29 16:48:21 pid:31501 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31501] exit with status 65280
+2016-09-29 16:48:21 pid:31502 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31502] exit with status 65280
+2016-09-29 16:48:21 pid:31503 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31503] exit with status 65280
+2016-09-29 16:48:21 pid:31504 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31504] exit with status 65280
+2016-09-29 16:48:21 pid:31505 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31505] exit with status 65280
+2016-09-29 16:48:21 pid:31506 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:21 pid:31455 worker[point-bottle-worker:31506] exit with status 65280
+2016-09-29 16:48:21 pid:31507 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31507] exit with status 65280
+2016-09-29 16:48:22 pid:31508 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31508] exit with status 65280
+2016-09-29 16:48:22 pid:31509 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31509] exit with status 65280
+2016-09-29 16:48:22 pid:31510 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31510] exit with status 65280
+2016-09-29 16:48:22 pid:31511 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31511] exit with status 65280
+2016-09-29 16:48:22 pid:31512 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31512] exit with status 65280
+2016-09-29 16:48:22 pid:31513 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31513] exit with status 65280
+2016-09-29 16:48:22 pid:31514 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31514] exit with status 65280
+2016-09-29 16:48:22 pid:31515 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31515] exit with status 65280
+2016-09-29 16:48:22 pid:31516 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31516] exit with status 65280
+2016-09-29 16:48:22 pid:31517 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31517] exit with status 65280
+2016-09-29 16:48:22 pid:31518 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31518] exit with status 65280
+2016-09-29 16:48:22 pid:31519 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31519] exit with status 65280
+2016-09-29 16:48:22 pid:31520 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31520] exit with status 65280
+2016-09-29 16:48:22 pid:31521 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31521] exit with status 65280
+2016-09-29 16:48:22 pid:31522 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31522] exit with status 65280
+2016-09-29 16:48:22 pid:31523 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31523] exit with status 65280
+2016-09-29 16:48:22 pid:31524 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31524] exit with status 65280
+2016-09-29 16:48:22 pid:31525 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31525] exit with status 65280
+2016-09-29 16:48:22 pid:31526 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31526] exit with status 65280
+2016-09-29 16:48:22 pid:31527 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31527] exit with status 65280
+2016-09-29 16:48:22 pid:31528 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31528] exit with status 65280
+2016-09-29 16:48:22 pid:31529 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31529] exit with status 65280
+2016-09-29 16:48:22 pid:31530 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31530] exit with status 65280
+2016-09-29 16:48:22 pid:31531 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31531] exit with status 65280
+2016-09-29 16:48:22 pid:31532 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31532] exit with status 65280
+2016-09-29 16:48:22 pid:31533 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31533] exit with status 65280
+2016-09-29 16:48:22 pid:31534 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31534] exit with status 65280
+2016-09-29 16:48:22 pid:31535 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31535] exit with status 65280
+2016-09-29 16:48:22 pid:31536 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31536] exit with status 65280
+2016-09-29 16:48:22 pid:31537 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31537] exit with status 65280
+2016-09-29 16:48:22 pid:31538 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31538] exit with status 65280
+2016-09-29 16:48:22 pid:31539 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31539] exit with status 65280
+2016-09-29 16:48:22 pid:31540 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31540] exit with status 65280
+2016-09-29 16:48:22 pid:31541 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31541] exit with status 65280
+2016-09-29 16:48:22 pid:31542 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31542] exit with status 65280
+2016-09-29 16:48:22 pid:31455 Workerman[start.php] Stopping ...
+2016-09-29 16:48:22 pid:31543 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected 'if' (T_IF) in /Users/www/socket/point-battle/Applications/YourApp/Events.php on line 70
+2016-09-29 16:48:22 pid:31455 worker[point-bottle-worker:31543] exit with status 65280
+2016-09-29 16:48:22 pid:31455 Workerman[start.php] has been stopped
+2016-09-29 16:48:48 pid:31545 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:48:51 pid:31545 Workerman[start.php] Stopping ...
+2016-09-29 16:48:51 pid:31545 Workerman[start.php] has been stopped
+2016-09-29 16:52:53 pid:31581 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:53:05 pid:31581 Workerman[start.php] Stopping ...
+2016-09-29 16:53:05 pid:31581 Workerman[start.php] has been stopped
+2016-09-29 16:53:32 pid:31601 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:53:37 pid:31601 Workerman[start.php] Stopping ...
+2016-09-29 16:53:38 pid:31601 Workerman[start.php] has been stopped
+2016-09-29 16:53:54 pid:31615 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:53:58 pid:31615 Workerman[start.php] Stopping ...
+2016-09-29 16:53:58 pid:31615 Workerman[start.php] has been stopped
+2016-09-29 16:54:46 pid:31629 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:54:50 pid:31629 Workerman[start.php] Stopping ...
+2016-09-29 16:54:50 pid:31629 Workerman[start.php] has been stopped
+2016-09-29 16:55:20 pid:31646 Workerman[start.php] start in DEBUG mode
+2016-09-29 16:55:24 pid:31646 Workerman[start.php] Stopping ...
+2016-09-29 16:55:24 pid:31646 Workerman[start.php] has been stopped
+2016-09-29 17:06:58 pid:31802 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:07:07 pid:31803 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected ';' in /Users/www/socket/point-battle/Applications/YourApp/Server/Message.php on line 44
+2016-09-29 17:07:07 pid:31802 worker[point-bottle-worker:31803] exit with status 65280
+2016-09-29 17:07:18 pid:31810 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected ';' in /Users/www/socket/point-battle/Applications/YourApp/Server/Message.php on line 44
+2016-09-29 17:07:18 pid:31802 worker[point-bottle-worker:31810] exit with status 65280
+2016-09-29 17:07:20 pid:31826 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected ';' in /Users/www/socket/point-battle/Applications/YourApp/Server/Message.php on line 44
+2016-09-29 17:07:20 pid:31802 worker[point-bottle-worker:31826] exit with status 65280
+2016-09-29 17:07:25 pid:31802 Workerman[start.php] Stopping ...
+2016-09-29 17:07:25 pid:31802 Workerman[start.php] has been stopped
+2016-09-29 17:07:54 pid:31835 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:46:46 pid:31835 Workerman[start.php] Stopping ...
+2016-09-29 17:46:46 pid:31835 Workerman[start.php] has been stopped
+2016-09-29 17:47:03 pid:32009 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:47:04 pid:32009 Workerman[start.php] Stopping ...
+2016-09-29 17:47:04 pid:32009 Workerman[start.php] has been stopped
+2016-09-29 17:47:23 pid:32020 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:47:30 pid:32021 WORKER EXIT UNEXPECTED E_PARSE syntax error, unexpected '$this' (T_VARIABLE) in /Users/www/socket/point-battle/Applications/YourApp/Server/Player.php on line 17
+2016-09-29 17:47:30 pid:32020 worker[point-bottle-worker:32021] exit with status 65280
+2016-09-29 17:47:33 pid:32020 Workerman[start.php] Stopping ...
+2016-09-29 17:47:33 pid:32020 Workerman[start.php] has been stopped
+2016-09-29 17:48:14 pid:32032 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:48:19 pid:32033 WORKER EXIT UNEXPECTED E_ERROR Call to a member function toArray() on null in /Users/www/socket/point-battle/Applications/YourApp/Server/Message.php on line 37
+2016-09-29 17:48:19 pid:32032 worker[point-bottle-worker:32033] exit with status 65280
+2016-09-29 17:48:23 pid:32032 Workerman[start.php] Stopping ...
+2016-09-29 17:48:23 pid:32032 Workerman[start.php] has been stopped
+2016-09-29 17:49:31 pid:32050 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:49:39 pid:32050 Workerman[start.php] Stopping ...
+2016-09-29 17:49:40 pid:32050 Workerman[start.php] has been stopped
+2016-09-29 17:50:12 pid:32061 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:56:50 pid:32061 Workerman[start.php] Stopping ...
+2016-09-29 17:56:50 pid:32061 Workerman[start.php] has been stopped
+2016-09-29 17:56:51 pid:32083 Workerman[start.php] start in DEBUG mode
+2016-09-29 17:59:22 pid:32083 Workerman[start.php] Stopping ...
+2016-09-29 17:59:22 pid:32083 Workerman[start.php] has been stopped
+2016-09-29 17:59:22 pid:32104 Workerman[start.php] start in DEBUG mode
+2016-09-29 22:02:17 pid:32104 Workerman[start.php] Stopping ...
+2016-09-29 22:02:17 pid:32104 Workerman[start.php] has been stopped
+2016-09-29 22:02:32 pid:32215 Workerman[start.php] start in DEBUG mode
+2016-09-29 22:19:34 pid:32215 Workerman[start.php] Stopping ...
+2016-09-29 22:19:34 pid:32215 Workerman[start.php] has been stopped
+2016-09-29 22:23:06 pid:32455 Workerman[start.php] start in DEBUG mode
+2016-09-29 22:25:20 pid:32455 Workerman[start.php] Stopping ...
+2016-09-29 22:25:20 pid:32455 Workerman[start.php] has been stopped
+2016-09-29 22:25:40 pid:32515 Workerman[start.php] start in DEBUG mode
+2016-09-29 22:27:10 pid:32515 Workerman[start.php] Stopping ...
+2016-09-29 22:27:10 pid:32515 Workerman[start.php] has been stopped
+2016-09-29 22:27:15 pid:32526 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:00:15 pid:32526 Workerman[start.php] Stopping ...
+2016-09-29 23:00:15 pid:32526 Workerman[start.php] has been stopped
+2016-09-29 23:00:15 pid:32676 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:32:43 pid:32676 Workerman[start.php] Stopping ...
+2016-09-29 23:32:43 pid:32676 Workerman[start.php] has been stopped
+2016-09-29 23:32:44 pid:32800 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:33:29 pid:32800 Workerman[start.php] Stopping ...
+2016-09-29 23:33:29 pid:32800 Workerman[start.php] has been stopped
+2016-09-29 23:33:30 pid:32811 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:33:43 pid:32811 Workerman[start.php] Stopping ...
+2016-09-29 23:33:43 pid:32811 Workerman[start.php] has been stopped
+2016-09-29 23:34:17 pid:32824 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:35:14 pid:32824 Workerman[start.php] Stopping ...
+2016-09-29 23:35:14 pid:32824 Workerman[start.php] has been stopped
+2016-09-29 23:35:15 pid:32836 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:35:27 pid:32836 Workerman[start.php] Stopping ...
+2016-09-29 23:35:27 pid:32836 Workerman[start.php] has been stopped
+2016-09-29 23:36:41 pid:32854 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:38:44 pid:32854 Workerman[start.php] Stopping ...
+2016-09-29 23:38:44 pid:32854 Workerman[start.php] has been stopped
+2016-09-29 23:38:50 pid:32873 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:39:37 pid:32873 Workerman[start.php] Stopping ...
+2016-09-29 23:39:37 pid:32873 Workerman[start.php] has been stopped
+2016-09-29 23:39:38 pid:32887 Workerman[start.php] start in DEBUG mode
+2016-09-29 23:59:28 pid:32887 Workerman[start.php] Stopping ...
+2016-09-29 23:59:28 pid:32887 Workerman[start.php] has been stopped
+2016-09-30 00:01:11 pid:33004 Workerman[start.php] start in DEBUG mode
+2016-09-30 00:03:13 pid:33004 Workerman[start.php] Stopping ...
+2016-09-30 00:03:13 pid:33004 Workerman[start.php] has been stopped
+2016-09-30 10:50:59 pid:33427 Workerman[start.php] start in DEBUG mode
+2016-09-30 10:51:22 pid:33427 Workerman[start.php] Stopping ...
+2016-09-30 10:51:22 pid:33427 Workerman[start.php] has been stopped

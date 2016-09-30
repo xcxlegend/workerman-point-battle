@@ -21,6 +21,11 @@
 
 use \GatewayWorker\Lib\Gateway;
 
+use Server\Player;
+use Server\Message;
+use Server\Constants;
+
+
 /**
  * 主逻辑
  * 主要是处理 onConnect onMessage onClose 三个方法
@@ -28,6 +33,14 @@ use \GatewayWorker\Lib\Gateway;
  */
 class Events
 {
+
+    static $gameServer;
+
+    public static function onWorkerStart()
+    {
+        static::$gameServer = new Server\GameServer; 
+    }
+
     /**
      * 当客户端连接时触发
      * 如果业务不需此回调可以删除onConnect
@@ -35,10 +48,10 @@ class Events
      * @param int $client_id 连接id
      */
     public static function onConnect($client_id) {
-        // 向当前client_id发送数据 
-        Gateway::sendToClient($client_id, "Hello $client_id");
-        // 向所有人发送
-        Gateway::sendToAll("$client_id login");
+        if (method_exists(static::$gameServer, 'onConnect'))
+        {
+          static::$gameServer->onConnect($client_id);
+        }
     }
     
    /**
@@ -48,7 +61,30 @@ class Events
     */
    public static function onMessage($client_id, $message) {
         // 向所有人发送 
-        Gateway::sendToAll("$client_id said $message");
+        $msg = json_decode($message, true);
+        if (!$msg) return;
+
+        $action = $msg['action'];
+        $data   = $msg['data'];
+        // print_r($msg);
+        switch ($action) {
+          case Constants::MESSAGE_PLAYER_JOIN:
+              // 检查用户player情况
+            if (!$_SESSION['player']){
+              $_SESSION['player'] = static::$gameServer->createNewPlayer($client_id, $data['nick']);
+            }
+            break;
+          case Constants::MESSAGE_PLAYER_MOVE:
+            static::$gameServer->onClientGamerMove($client_id, $data['id'], $data['pos']);
+            break;
+          case Constants::MESSAGE_ENTITY_CRASH:
+            break;
+          default:
+            # code...
+            break;
+        }
+
+
    }
    
    /**
@@ -56,7 +92,6 @@ class Events
     * @param int $client_id 连接id
     */
    public static function onClose($client_id) {
-       // 向所有人发送 
-       GateWay::sendToAll("$client_id logout");
+      static::$gameServer->onClientLeave($client_id);
    }
 }

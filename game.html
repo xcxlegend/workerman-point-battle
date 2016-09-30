@@ -1,0 +1,304 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+    <script src="http://cdn.bootcss.com/jquery/3.1.0/jquery.js"></script>
+    <style type="text/css">
+        body {overflow: hidden;}
+        * {padding:  0; margin: 0}
+        #canvas {
+            margin: 5px;
+            width: 0;
+            height: 0;
+            position: relative;
+            border: 1px solid #ccc;
+        }
+        point{
+            border: 1px solid red;
+            text-align: center;
+            display: block;
+            width: 14px;
+            height: 14px;
+            position: absolute;
+            -moz-border-radius: 999px;
+            -webkit-border-radius: 999px;
+            border-radius: 999px;
+        }
+        point span { position: absolute; left: 0; top: -15px; color: green; 
+            display: block;
+            height: 16px; width: 100px; overflow: hidden;
+        }
+        .other {
+            border: 1px dashed blue
+        }
+        .npc {
+            border: 1px solid #fff;
+            background: #a5e3ff;
+        }
+    </style>  
+
+    <body>
+        <div id="canvas">
+        </div>
+        <div>
+        名字: <input type="text" id="nick" /> <button type="button" onclick="games.start()">开始</button> <!-- <button type="button" onclick="Gamer.dead()">死掉</button> -->
+        <span id="info">connecting server...</span>
+        </div>
+    </body>
+    <script type="text/javascript">
+    var ws = new WebSocket("ws://127.0.0.1:8282");  
+    var map = {'obj' : $('#canvas')};
+    var entities = {'all': {}}
+    var player = {}
+    var games = {'map': map, 'entities': entities, 'player': player}
+    
+    player.init = function(g){
+        this.data = g
+        this.data.speed = g.speed ? g.speed : 20;
+        this.obj = games.createEntity(g, true)
+        this.move()
+    }
+
+    player.updateFromDIV = function(){
+        this.data.pos[0] = parseInt(this.obj.css('left'));
+        this.data.pos[1] = parseInt(this.obj.css('top'));
+    }
+
+    player.stop = function(){
+        player.obj.stop()
+    }
+
+    player.move = function(){
+        this.stop();
+        if (this.data.moveToward != '' || this.data.moveToward != undefined){
+            var x = 0, y = 0;
+            var speed = this.data.speed;
+            if (this.data.moveToward == constants.TOWARD_UP){
+                y = -speed;
+            }else if (this.data.moveToward == constants.TOWARD_DOWN){
+                y = speed;
+            }else if (this.data.moveToward == constants.TOWARD_LEFT){
+                x = -speed;
+            }else if (this.data.moveToward == constants.TOWARD_RIGHT){
+                x = speed
+            }
+            originX = this.obj.css('left')
+            originY = this.obj.css('top')
+            x = parseInt(originX) + x;
+            y = parseInt(originY) + y;
+
+            if (x > games.map.size[0] - this.data.r){
+                x = games.map.size[0] - this.data.r + 5;
+            }else if (x < 0){
+                x = -1;
+            }
+            if (y > games.map.size[1] - this.data.r ){
+                y = games.map.size[1]- this.data.r +5
+            }else if ( y < 0 ){
+                y = -1
+            }
+
+
+            _self = this;
+            games.moveEntityTo(this, [x, y], function(){
+                _self.move()
+            }, function(){
+                _self.updateFromDIV()
+                games.checkValidPos(_self)
+                // console.log(_self, x, y)
+            });
+            if (ws != undefined){
+                var msg = '{"action": '+constants.MESSAGE_PLAYER_MOVE+', "data": {"id": '+this.data.id+' , "pos": ['+x+' ,'+y+']}}';
+                ws.send(msg);
+            }
+        }
+    }
+
+    games.checkValidPos = function(e){
+        if (e.data.pos[0] + e.data.r >= this.map.size[0]){
+            if (e.data.moveToward != constants.TOWARD_LEFT){
+                e.data.moveToward = constants.TOWARD_LEFT
+            }
+        }else if (e.data.pos[0] <= 0){
+            if (e.data.moveToward != constants.TOWARD_RIGHT){
+                e.data.moveToward = constants.TOWARD_RIGHT
+            }
+        }else if (e.data.pos[1] <= 0){
+            if (e.data.moveToward != constants.TOWARD_DOWN){
+                e.data.moveToward = constants.TOWARD_DOWN
+            }
+        }else if (e.data.pos[1] + e.data.r >= this.map.size[1]){
+            if (e.data.moveToward != constants.TOWARD_UP){
+                e.data.moveToward = constants.TOWARD_UP
+            }
+        }
+    }
+
+    games.moveEntityTo = function(e, pos, complete = function(){}, step = function(){}){
+        if (e.obj == undefined) return;
+        x = parseInt(pos[0])
+        y = parseInt(pos[1])
+        var options = {
+            duration: 200, 
+            queue: false,
+            easing: "linear",
+            complete: complete,
+            step: step
+        };
+        e.obj.animate({left:x+"px", top: y+"px"}, options);
+    }
+
+    games.start = function(){
+        var nick = $('#nick').val();
+        if (!nick){
+            alert('请输入昵称')
+            return;
+        }
+        ws.send('{"action":'+constants.MESSAGE_PLAYER_JOIN+', "data": {"nick": "'+nick+'"}}'); 
+    }
+
+    games.createEntity = function(e, is_gamer = false){
+        var point = '<point id="'+e.id+'"></point>';
+        $('#canvas').append(point);
+        var entity = {}
+        entity.obj = $('#'+e.id);
+        entity.obj.addClass(is_gamer?'gamer':('type_'+e.type));
+        entity.obj.css({
+            left: e.pos[0] + 'px',
+            top:  e.pos[1] + 'px',
+            width: e.r + 'px',
+            height: e.r+'px',
+        });
+        entity.data = e
+        games.entities.all[e.id] = entity
+        return entity.obj
+    }
+
+    games.over = function(){
+        info('error', 'server closed !');
+    }
+
+
+    entities.append = function(es){
+        $.each(es, function(i, o){
+            games.createEntity(o);
+        });
+    }
+
+    entities.remove = function(id){
+        if (games.entities.all.hasOwnProperty(id) && games.entities.all[id] != undefined){
+            entity = games.entities.all[id];
+            entity.obj.remove()
+            entity = undefined
+        }
+    }
+
+    map.init = function(m){
+        this.size = m.size
+        this.obj.css({width: m.size[0]+'px', height: m.size[1]+'px'})
+        info('success', 'map init success...')
+    }
+
+    var constants = {
+        'MESSAGE_MAP_REFRESH' : 9,
+        'MESSAGE_PLAYER_JOIN' : 1,
+        'MESSAGE_PLAYER_MOVE' : 3,
+        'MESSAGE_ENTITY_CREATE' : 4,
+        'MESSAGE_ENTITY_REMOVE' : 5,
+        'TOWARD_UP'    : 1, 
+        'TOWARD_DOWN'  : -1, 
+        'TOWARD_LEFT'  : 2, 
+        'TOWARD_RIGHT' : -2, 
+    }
+
+    ws.onmessage = function(event) { 
+        //valueLabel.innerHTML+ = event.data; 
+        try{
+            var data = JSON.parse(event.data);
+        }catch (e){
+            return;
+        }
+        switch (data.action){
+            case constants.MESSAGE_MAP_REFRESH:
+                games.map.init(data.data.games.map)
+                games.entities.append(data.data.games.entities)
+                break;
+            case constants.MESSAGE_PLAYER_JOIN:
+                games.player.init(data.data.player)
+                break;
+            case constants.MESSAGE_PLAYER_MOVE:
+                if (games.entities.all.hasOwnProperty(data.data.id) && games.entities.all[data.data.id] != undefined){
+                    e = games.entities.all[data.data.id];
+                    games.moveEntityTo(e, data.data.pos, function(){}, function(){})  
+                }
+                break;
+            case constants.MESSAGE_ENTITY_CREATE:
+                // console.log(data.data);
+                games.entities.append(data.data.entities)
+                break;
+            case constants.MESSAGE_ENTITY_REMOVE:
+                games.entities.remove(data.data.id);
+                break;
+            default:
+            break;
+        }
+         
+    }; 
+    // 打开WebSocket 
+    ws.onclose = function(event) { 
+        games.over();
+      //WebSocket Status:: Socket Closed
+    }; 
+    // 打开WebSocket
+    ws.onopen = function(event) { 
+        info('success', 'connect success');
+    }; 
+    ws.onerror =function(event){
+        console.log(event)
+        //WebSocket Status:: Error was reported
+    };
+
+
+    // function 
+    function info(type, msg){
+        var color = 'black';
+        if (type == 'error'){
+            color = 'red'
+        }else if (type == 'success'){
+            color = 'green'
+        }
+        $('#info').html('<font color="'+color+'">'+msg+'</font>')
+    }
+
+
+    document.onkeydown=function(event){
+        var e = event || window.event || arguments.callee.caller.arguments[0];
+        if(e && e.keyCode==37){ // left
+            if (player.data.moveToward != constants.TOWARD_LEFT){
+                player.data.moveToward = constants.TOWARD_LEFT
+                player.move()
+            }
+        }
+        if(e && e.keyCode==38){ // up
+            if (player.data.moveToward != constants.TOWARD_UP){
+                player.data.moveToward = constants.TOWARD_UP
+                player.move()
+            }
+        }
+        if(e && e.keyCode==39){ // right
+            if (player.data.moveToward != constants.TOWARD_RIGHT){
+                player.data.moveToward = constants.TOWARD_RIGHT
+                player.move()
+            }
+        }
+        if(e && e.keyCode==40){ // down
+            if (player.data.moveToward != constants.TOWARD_DOWN){
+                player.data.moveToward = constants.TOWARD_DOWN
+                player.move()
+            }
+        }
+    }; 
+
+ 
+    </script>
+</html>

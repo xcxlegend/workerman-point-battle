@@ -159,6 +159,7 @@ class BusinessWorker extends Worker
         parent::__construct($socket_name, $context_option);
         $backrace                = debug_backtrace();
         $this->_autoloadRootPath = dirname($backrace[0]['file']);
+        
     }
 
     /**
